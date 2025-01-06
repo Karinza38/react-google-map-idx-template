@@ -1,4 +1,4 @@
-A template for getting started with Google Maps Platform in Project IDX
+ A template for getting started with Google Maps Platform in Project IDX
 
 ## Open in Project IDX 
 
